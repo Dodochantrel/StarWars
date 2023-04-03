@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="PeopleActivity_choisirNombre">Choisis un chiffre entre 1 et 83 compris !</string>
+    <string name="PlanetActivity_choisirNombre">Choisis un chiffre entre 1 et 60 compris !</string>
+    <string name="MainActivity_bienvenue">Bienvenue sur mon application starwars !</string>
+</resources>
